@@ -1,0 +1,2 @@
+# try-django
+Learning django. 
